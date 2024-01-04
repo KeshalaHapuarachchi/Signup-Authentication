@@ -1,6 +1,6 @@
 ﻿# Signup-Authentication
 
- Project Setup
+# Project Setup
 Start by creating a new React app using Vite, which provides a faster development environment:
 
 npx create-vite mern-signup-app --template react
